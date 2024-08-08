@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jason5ng32&number_format=long&rank_icon=percentile&count_private=true&theme=aura&hide=contribs&show_icons=true&include_all_commits=true&line_height=24.0)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason5ng32&theme=aura&layout=compact&card_width=360)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jason5ng32&count_private=true&theme=aura&hide=contribs&show_icons=true&include_all_commits=true&line_height=24.0)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason5ng32&theme=aura&layout=compact&card_width=360)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub followers](https://img.shields.io/github/followers/jason5ng32)](https://github.com/jason5ng32)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/lgdipcalomggcjkohjhkhkbcpgladnoe)](https://chromewebstore.google.com/detail/macify-macos-screensaver/lgdipcalomggcjkohjhkhkbcpgladnoe)
